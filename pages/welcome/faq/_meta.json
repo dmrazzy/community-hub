@@ -13,6 +13,7 @@
         "title": "Where are Foundation Missions?",
         "href": "https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22Foundation+Mission+Request%22",
         "newWindow": true
-    },
+     },
+    "dashboard-trackers": "Dashboards and Trackers",   
     "what-is-the-optimism-foundation": "What is the Optimism Foundation?"
 }
